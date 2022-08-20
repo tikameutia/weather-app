@@ -27,6 +27,13 @@ h2 {
   font-size: 15px;
 }
 
+.coded-by {
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 12px;
+  text-align: center;
+}
+
 .description {
   display: block;
   margin: 0 auto;
